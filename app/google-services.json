@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "190652929934",
+    "firebase_url": "https://jualanonline-781b9.firebaseio.com",
+    "project_id": "jualanonline-781b9",
+    "storage_bucket": "jualanonline-781b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190652929934:android:7db55d36eaf51d0a",
+        "android_client_info": {
+          "package_name": "ram234.com.jualanonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190652929934-5dnfmn5akojp2nf1a1gro0utevbfmb3g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ram234.com.jualanonline",
+            "certificate_hash": "8a3adf5093879ca584c406b2dc41ade14a3344f3"
+          }
+        },
+        {
+          "client_id": "190652929934-d52ts9aq146o43lvr906pk9mev1hirqn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaWzfbeK42r1qIvYznfLTI7_nNk8ul7gc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190652929934-d52ts9aq146o43lvr906pk9mev1hirqn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
